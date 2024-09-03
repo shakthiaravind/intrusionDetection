@@ -1,3 +1,3 @@
 # intrusionDetection
 
-Refer to the report.pdf file.
+Refer to the `report.pdf` file.
